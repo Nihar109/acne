@@ -6,8 +6,11 @@ Multiclass image classification Model trained -VGG19
 
 Used Flask api to send image and skin disease
 
+# Model Training
+Due to less number of image datasets it cann't properly classify the image. So We used yolo train model to classify the image
 
-# How to get start:
+
+## How to get start:
 
 To use the project start with
 1. Clone the repository recursively:
